@@ -20,59 +20,59 @@ export default {
       tema: 'Intervención y evaluación en entornos saludables',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión de los conceptos de intervención y evaluación en entornos saludables.',
+        '<b> Objetivo:</b> Evaluar la comprensión de los conceptos de integración EES-AIEPI según modelo de gestión local.',
       barajarPreguntas: false,
       preguntas: [
         {
           id: 1,
           texto:
-            'La estrategia de escuelas saludables (EES) busca promover el bienestar integral de la comunidad educativa mediante acciones coordinadas de promoción y protección de la salud.',
+            'La promoción de la salud busca solo prevenir enfermedades sin considerar el bienestar social y mental.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: false,
+              esCorrecta: true,
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad el conocimiento de intervención y evaluación en entornos saludables.',
+            '¡Felicitaciones! Ha captado con claridad el conocimiento de integración EES-AIEPI según modelo de gestión local.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 2,
           texto:
-            'La creación de leyes y normas relacionadas con la salud escolar NO forma parte de los componentes de la Estrategia de Escuelas Saludables.',
+            'El desarrollo humano sostenible se basa en la formación de capacidades humanas y oportunidades reales de desarrollo.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto: 'Verdadero',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'b',
               texto: 'Falso',
-              esCorrecta: true,
+              esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad el conocimiento de intervención y evaluación en entornos saludables.',
+            '¡Felicitaciones! Ha captado con claridad el conocimiento de integración EES-AIEPI según modelo de gestión local.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 3,
           texto:
-            'Uno de los componentes de la estrategia es la educación para la salud, orientada a desarrollar habilidades como la toma de decisiones saludables y la gestión emocional.',
+            'El componente comunitario de AIEPI tiene como objetivo mejorar la equidad en salud a través del acceso a servicios y promoción de prácticas clave.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -88,14 +88,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad el conocimiento de intervención y evaluación en entornos saludables.',
+            '¡Felicitaciones! Ha captado con claridad el conocimiento de integración EES-AIEPI según modelo de gestión local.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 4,
           texto:
-            'La estrategia de escuelas saludables solo se centra en la infraestructura física de la escuela, sin considerar factores psicosociales o culturales.',
+            'La estrategia de entornos saludables (EES) no tiene relación con la atención infantil y la promoción de la salud.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -111,14 +111,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad el conocimiento de intervención y evaluación en entornos saludables.',
+            '¡Felicitaciones! Ha captado con claridad el conocimiento de integración EES-AIEPI según modelo de gestión local.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 5,
           texto:
-            'La estrategia busca fortalecer la relación entre escuela, familia y comunidad para una atención integral a las necesidades de niños, niñas y adolescentes.',
+            'Los derechos humanos y el desarrollo humano están estrechamente relacionados, ya que el desarrollo no puede lograrse sin la garantía de derechos fundamentales.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -134,14 +134,37 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad el conocimiento de intervención y evaluación en entornos saludables.',
+            '¡Felicitaciones! Ha captado con claridad el conocimiento de integración EES-AIEPI según modelo de gestión local.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 6,
           texto:
-            'El enfoque intersectorial e interinstitucional NO es necesario para la implementación de la Estrategia de Escuelas Saludables.',
+            'El autocuidado, la ayuda mutua y los entornos saludables son mecanismos esenciales en la promoción de la salud.',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Verdadero',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Falso',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            '¡Felicitaciones! Ha captado con claridad el conocimiento de integración EES-AIEPI según modelo de gestión local.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 7,
+          texto:
+            'La promoción de la salud es un proceso exclusivamente individual y no involucra cambios en las condiciones sociales.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -157,14 +180,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad el conocimiento de intervención y evaluación en entornos saludables.',
+            '¡Felicitaciones! Ha captado con claridad el conocimiento de integración EES-AIEPI según modelo de gestión local.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
-          id: 7,
+          id: 8,
           texto:
-            'Uno de los componentes clave de la estrategia incluye la creación de ambientes escolares seguros, inclusivos y protectores para todos los estudiantes.',
+            'La estrategia AIEPI se basa en tres componentes fundamentales: institucional, clínico y comunitario.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -180,14 +203,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad el conocimiento de intervención y evaluación en entornos saludables.',
+            '¡Felicitaciones! Ha captado con claridad el conocimiento de integración EES-AIEPI según modelo de gestión local.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
-          id: 8,
+          id: 9,
           texto:
-            'La herramienta de caracterización de la escuela a nivel institucional no considera la participación de los estudiantes en el proceso de diagnóstico.',
+            'La identificación temprana de signos de alarma no es relevante en la estrategia AIEPI.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -203,14 +226,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad el conocimiento de intervención y evaluación en entornos saludables.',
+            '¡Felicitaciones! Ha captado con claridad el conocimiento  de integración EES-AIEPI según modelo de gestión local.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
-          id: 9,
+          id: 10,
           texto:
-            'La estrategia de escuelas saludables incluye jornadas de salud, vacunación y vigilancia epidemiológica como parte de la reorientación de los servicios de salud.',
+            'Las estrategias de escuela saludable y vivienda saludable buscan mejorar la calidad de vida de las personas y comunidades.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -226,30 +249,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad el conocimiento de intervención y evaluación en entornos saludables.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
-        },
-        {
-          id: 10,
-          texto:
-            'La gestión y movilización de recursos dentro de la estrategia se limita únicamente al uso de recursos económicos, sin considerar alianzas institucionales.',
-          imagen: require('@/assets/actividad/imagen2.png'),
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: true,
-            },
-          ],
-          mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad el conocimiento de intervención y evaluación en entornos saludables.',
+            '¡Felicitaciones! Ha captado con claridad el conocimiento de integración EES-AIEPI según modelo de gestión local..',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
