@@ -2,13 +2,14 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    bottom: 7%
+    right: 60%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 37%
+    right: 5%
+ 
 
 @keyframes float1
   0%
@@ -17,14 +18,294 @@
     transform: translateY(0px)
   
 
-.banner-principal .tarjeta
-  background-position: left 50% !important
-.banner-principal__row .banner-principal__img
-  width: 400px !important  
+.banner-principal__img 
+  padding-bottom: 0 !important;
+.banner-principal__row .banner-principal__img 
+    padding-right: 0 !important;
+    width: 33%;
+    
+
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6 
+  color: $white !important  
+
+
+.banner-interno__titulo h1, .banner-interno__titulo h2, 
+.banner-interno__titulo h3, .banner-interno__titulo h4, 
+.banner-interno__titulo h5, .banner-interno__titulo h6
+  color: $white !important  
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important   
-.banner-interno__titulo__icono i
-  color: $color-primario
-figcaption
-  font-weight: normal
- 
+  color: $color-sistema-texto !important
+
+.acordion__accion__btn--a 
+    background-color: $color-acento-botones !important
+.slyder-f__btn i 
+    background-color: $color-acento-botones
+    border-radius: 50%;
+    border: none;
+    width: 50px;
+    height: 50px;
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+.cajon.color-primario 
+    background-color: #EDEBF7
+.tabla-a.color-acento-botones thead 
+    border-color: #B771E5;
+
+.tabla-a thead 
+    background-color: #EFFBE9;
+
+/**************************************************************/
+/***CUSTOM STYLES***/
+/**************************************************************/
+.bg-full-width
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+.bg-fondo
+  &-1
+    background-image: url("../assets/bg/1.svg") !important
+    background-position: bottom
+  &-2
+    background-image: url("../assets/bg/3.svg") !important
+    background-position: top right
+    background-repeat: no-repeat
+    background-color: #B5AEE0
+  &-3
+    background-image: url("../assets/bg/4.svg") !important
+    background-position: top right
+    background-repeat: no-repeat
+    background-color: #B5AEE0
+  &-4
+    background-image: url("../assets/bg/5.png") !important
+    background-size: 100% 100%;
+    background-repeat: no-repeat
+  &-5
+    background-image: url("../assets/bg/6.png") !important
+    background-size: 100% 100%;
+    background-repeat: no-repeat
+  &-6, &-14
+    /*background-image: url("../assets/curso/temas/t2/4.svg") !important*/
+    background-size: cover
+    background-repeat: no-repeat
+  &-7, &-15
+    /*background-image: url("../assets/curso/temas/t2/5.svg") !important*/
+    background-size: cover
+    background-repeat: no-repeat
+  &-8
+    background-image: url("../assets/bg/8.svg") !important
+    background-position: bottom
+  &-9
+    background-image: url("../assets/bg/7.svg") !important
+    background-size: cover
+    background-repeat: no-repeat
+  &-10
+    background-image: url("../assets/bg/9.png") !important
+    background-size: 100% 80%;
+    background-repeat: no-repeat
+    background-position: center
+  &-11
+    background-image: url("../assets/bg/10.svg") !important
+    background-size: 100% 100%;
+    background-repeat: no-repeat
+  &-12
+    background-image: url("../assets/bg/4.svg") !important
+    background-position: top right
+    background-repeat: no-repeat
+    background-color: #B5AEE0
+    height: 250px
+  &-13
+    background-image: url("../assets/bg/3.svg") !important
+    background-position: top right
+    background-repeat: no-repeat
+    background-color: #B5AEE0
+    height: 100px
+.bg-color
+  &-1
+    background-color: #EDEBF7 !important
+  &-2
+    background-color: $color-primario
+    h3
+      color: $white !important
+    &.acordion__activo
+      h3
+        color: $color-sistema-texto !important
+      background-color: #B5AEE0 !important
+  &-3
+    color: $color-primario !important
+  &-4
+    background-color: #F0E3FA
+    border-radius: 30px
+    width: fit-content
+  &-5
+    background-color: #F6F6F6
+    border-radius: 30px
+  &-6
+    background-color: #B5AEE0
+  &-7
+    background-color: #FFEDCC
+  &-8
+    background-color: #F8F1FC
+
+.border-top-cus::before
+    content: ' ';
+    display: block;
+    width: 50px;
+    height: 0px;
+    border: 5px $color-primario solid;
+    position: relative;
+    left: 20px;
+      
+
+
+.titulo-icono
+  background-color: $color-acento-contenido
+  border-radius: 30px
+  width: fit-content
+  position: relative;
+  left: 12px;
+  &-text
+    margin-right: 10px
+  &-img
+    padding: 0px
+    &:before
+      position: relative
+      border-bottom-right-radius: 40px
+      @media screen and (max-width: 767px)
+        height: 280%
+    img
+      position: relative
+      max-width: 50px
+      
+.tarjeta--boton 
+  height: 320px
+  &.bg-fondo-13
+    height: 220px
+  &.bg-fondo-2:active, &.bg-fondo-2:focus, &.bg-fondo-2:hover,
+  &.bg-fondo-13:active, &.bg-fondo-13:focus, &.bg-fondo-13:hover
+    background-color: #FCF9E8 !important
+  &.bg-fondo-3
+    height: 280px
+  &.bg-fondo-3:active, &.bg-fondo-3:focus, &.bg-fondo-3:hover 
+    background-color: $color-primario !important
+    background-image: url("../assets/bg/5.svg") !important
+    p
+      color: $white !important
+  
+  &-2
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+    &.bg-fondo-3
+      height: 180px
+    &.bg-fondo-3:active, &.bg-fondo-3:focus, &.bg-fondo-3:hover,
+    &.bg-fondo-12:active, &.bg-fondo-12:focus, &.bg-fondo-12:hover 
+      background-color: $color-primario !important
+      background-image: url("../assets/bg/5.svg") !important
+      p
+        color: $white !important
+    
+.bloque-texto-g__img.bg-color-1
+  img
+    position: relative;
+    width: 50%;
+    left: 30%;
+    top: -39px;
+.border-right-cus
+  border-right: 1px solid $color-primario;
+.hcard
+  &-1
+    height: 250px
+/**************************************************************/
+/*Media Queries*/  
+/**************************************************************/
+
+//// DESKTOP SMALL 1400--------------------------------------
+@media screen and (max-width: $bp-min-xxl)
+  .tarjeta--boton 
+    height: 350px
+  .mb-cus
+    margin-bottom: 2em  !important 
+  .bloque-texto-g__img.bg-color-1 img 
+    width: 70%;
+    top: -55px;
+//// TABLET 992--------------------------------------
+@media screen and (max-width: $bp-max-md)
+  .tarjeta--boton
+    height: 280px
+
+  .tarjeta--boton.bg-fondo-3, .tarjeta--boton.bg-fondo-12
+    height: 180px
+  .tarjeta.bg-fondo-14,
+  .tarjeta.bg-fondo-15
+    height: 320px
+  .tarjeta--boton.bg-fondo-13
+    height: auto
+  .mb-cus
+    margin-bottom: 2em  !important  
+  .bg-fondo-9
+    background-size: 108%;
+    border-radius: 20px;
+  .hcard
+    &-1
+      height: 180px
+  
+  
+//// TABLET MINI 768--------------------------------------
+@media screen and (max-width: $bp-min-md)
+  .tarjeta--boton-2.bg-fondo-3, .tarjeta--boton-2.bg-fondo-12
+    height: auto
+  
+  .mb-cus
+    margin-bottom: 2em  !important  
+  .bloque-texto-g
+        padding-top: 40px !important;
+  .bg-fondo-6, .bg-fondo-7
+    height: 171px;
+  .slyder-f__btn i 
+    width: 40px;
+    height: 30px;
+    font-size: 1rem;
+  
+
+//// MOBILE 576--------------------------------------
+@media screen and (max-width: $bp-min-sm)
+  .tarjeta--boton, .tarjeta--boton.bg-fondo-3,
+  .tarjeta--boton-2.bg-fondo-3, .tarjeta--boton-2.bg-fondo-12, 
+  .tarjeta--boton.bg-fondo-13
+    height: auto
+  .mb-cus
+    margin-bottom: 2em  !important
+  .bloque-texto-g
+        padding-top: 20px !important;
+  .tarjeta--container > .tarjeta 
+    border-radius: 20px;
+  .slyder-f__btn i 
+    width: 40px;
+    height: 30px;
+    font-size: 1rem;
+  .ps-3
+    padding-left: 0 !important;
+  .pe-3
+    padding-right: 0 !important;
+  .bg-fondo-9
+    background-size: auto;
+  .bg-fondo-6, .bg-fondo-7
+      background-size: cover;
+      margin-bottom: 20px
+  .hide-icon-sm
+    display: none !important
+  .titulo-icono
+    left: 0 !important
+  .border-right-cus
+    border-top: 1px solid $color-primario;
+    border-right: none;
+  .tarjeta.bg-fondo-14,
+  .tarjeta.bg-fondo-15
+    height: auto
