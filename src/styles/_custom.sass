@@ -91,11 +91,11 @@
     background-size: 100% 100%;
     background-repeat: no-repeat
   &-6, &-14
-    /*background-image: url("../assets/curso/temas/t2/4.svg") !important*/
+    background-image: url("../assets/bg/11.svg") !important
     background-size: cover
     background-repeat: no-repeat
   &-7, &-15
-    /*background-image: url("../assets/curso/temas/t2/5.svg") !important*/
+    background-image: url("../assets/bg/12.svg") !important
     background-size: cover
     background-repeat: no-repeat
   &-8
@@ -126,6 +126,9 @@
     background-repeat: no-repeat
     background-color: #B5AEE0
     height: 100px
+  &-14
+    background-image: url("../assets/bg/14.svg") !important
+    background-position: top
 .bg-color
   &-1
     background-color: #EDEBF7 !important
@@ -138,7 +141,7 @@
         color: $color-sistema-texto !important
       background-color: #B5AEE0 !important
   &-3
-    color: $color-primario !important
+    color: #935AB7 !important
   &-4
     background-color: #F0E3FA
     border-radius: 30px
@@ -152,6 +155,25 @@
     background-color: #FFEDCC
   &-8
     background-color: #F8F1FC
+  &-9
+    background-color: #DEF6D4
+  &-10
+    background-color: #DAD7EF
+    border-radius: 15px
+  &-11
+    background-color: #EFFBE9
+    border-radius: 15px
+  &-12
+    background-color: #FFA500
+  &-13
+    background-color: #DAD7EF
+  &-14
+    background-color: #AEEA94
+  &-15
+    background-color: #B5AEE0
+    background-size: contain;
+    background-repeat: repeat-y;
+
 
 .border-top-cus::before
     content: ' ';
@@ -191,7 +213,7 @@
   &.bg-fondo-13:active, &.bg-fondo-13:focus, &.bg-fondo-13:hover
     background-color: #FCF9E8 !important
   &.bg-fondo-3
-    height: 280px
+    height: 410px
   &.bg-fondo-3:active, &.bg-fondo-3:focus, &.bg-fondo-3:hover 
     background-color: $color-primario !important
     background-image: url("../assets/bg/5.svg") !important
@@ -222,6 +244,10 @@
 .hcard
   &-1
     height: 250px
+.bloque-texto-c.bg-color-14:after
+    background-color: $color-primario;
+.bloque-texto-c.bg-color-14 i
+  color: $color-primario !important
 /**************************************************************/
 /*Media Queries*/  
 /**************************************************************/
@@ -235,6 +261,9 @@
   .bloque-texto-g__img.bg-color-1 img 
     width: 70%;
     top: -55px;
+  .tarjeta--boton.bg-fondo-3
+    height: 450px;
+
 //// TABLET 992--------------------------------------
 @media screen and (max-width: $bp-max-md)
   .tarjeta--boton
