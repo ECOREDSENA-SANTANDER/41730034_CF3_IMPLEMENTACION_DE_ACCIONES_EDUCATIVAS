@@ -56,7 +56,12 @@
 
 .tabla-a thead 
     background-color: #EFFBE9;
-
+.lista-ol--cuadro__vineta
+  color: $color-sistema-texto !important
+  font-weight: bold !important
+.tarjeta-avatar > img 
+    top: 5% !important
+    width: 120px !important
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -167,14 +172,16 @@
     background-color: #FFA500
   &-13
     background-color: #DAD7EF
-  &-14
+  &-14, &-16
     background-color: #AEEA94
   &-15
     background-color: #B5AEE0
     background-size: contain;
     background-repeat: repeat-y;
 
-
+.h-card
+  &-1
+    height: 250px
 .border-top-cus::before
     content: ' ';
     display: block;
@@ -241,13 +248,18 @@
     top: -39px;
 .border-right-cus
   border-right: 1px solid $color-primario;
-.hcard
-  &-1
-    height: 250px
+
 .bloque-texto-c.bg-color-14:after
     background-color: $color-primario;
 .bloque-texto-c.bg-color-14 i
   color: $color-primario !important
+.bloque-texto-c.bg-color-16:after
+    background-color: #FFA500;
+.bloque-texto-c.bg-color-16 i
+  color: #FFA500 !important
+.br
+  &-1
+    border-radius: 20px
 /**************************************************************/
 /*Media Queries*/  
 /**************************************************************/
@@ -281,9 +293,9 @@
   .bg-fondo-9
     background-size: 108%;
     border-radius: 20px;
-  .hcard
+  .h-card
     &-1
-      height: 180px
+      height: auto
   
   
 //// TABLET MINI 768--------------------------------------
