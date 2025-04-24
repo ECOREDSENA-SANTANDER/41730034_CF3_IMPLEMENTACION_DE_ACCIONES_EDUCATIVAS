@@ -56,12 +56,23 @@
 
 .tabla-a thead 
     background-color: #EFFBE9;
+.tabla-a.color-acento-botones table td
+    text-align: left !important;
 .lista-ol--cuadro__vineta
   color: $color-sistema-texto !important
   font-weight: bold !important
 .tarjeta-avatar > img 
     top: 5% !important
     width: 120px !important
+.tabs-a__tab
+    background-color: #FFA500;
+.tarjeta--gris
+    background-color: $color-acento-botones !important;
+.linea-tiempo-d.color-acento-botones .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+    background-color: #FFEDCC !important;
+    color: $color-sistema-texto !important;
+.linea-tiempo-d.color-acento-botones .linea-tiempo-d__item--selected .tarjeta--gris
+    background-color: #FFDB99 !important;
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -134,6 +145,9 @@
   &-14
     background-image: url("../assets/bg/14.svg") !important
     background-position: top
+  &-15
+    background-image: url("../assets/bg/1.svg") !important
+    background-position: top
 .bg-color
   &-1
     background-color: #EDEBF7 !important
@@ -182,6 +196,8 @@
 .h-card
   &-1
     height: 250px
+  &-2
+    height: 300px !important
 .border-top-cus::before
     content: ' ';
     display: block;
@@ -294,8 +310,15 @@
     background-size: 108%;
     border-radius: 20px;
   .h-card
-    &-1
-      height: auto
+    &-1, &-2
+      height: auto !important
+  .linea-tiempo-d__item__content__title
+    height: auto !important
+    span
+      padding-top:  1em !important
+      padding-bottom:  1em !important
+  .tarjeta-avatar .tarjeta
+    width: 100%;
   
   
 //// TABLET MINI 768--------------------------------------
