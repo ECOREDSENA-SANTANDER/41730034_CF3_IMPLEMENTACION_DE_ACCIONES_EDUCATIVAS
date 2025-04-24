@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="78" viewBox="0 0 78 78">
+  <g id="Grupo_1102829" data-name="Grupo 1102829" transform="translate(-249.051 -822)">
+    <g id="Elipse_11499" data-name="Elipse 11499" transform="translate(249.051 822)" fill="#aeea94" stroke="#707070" stroke-width="1">
+      <circle cx="39" cy="39" r="39" stroke="none"/>
+      <circle cx="39" cy="39" r="38.5" fill="none"/>
+    </g>
+    <g id="layer1" transform="translate(264.522 557.404)">
+      <path id="path17996-0" d="M.529,284.035v33.773a2.311,2.311,0,0,0,2.3,2.3H44.28a2.309,2.309,0,0,0,2.3-2.3V284.035Z" transform="translate(0 6.537)" fill="#dbe9ee"/>
+      <path id="path17998-2" d="M2.83,280.6a2.312,2.312,0,0,0-2.3,2.3v8.444H46.58V282.9a2.311,2.311,0,0,0-2.3-2.3Z" transform="translate(0 0)" fill="#33658a"/>
+      <g id="Grupo_1101804" data-name="Grupo 1101804" transform="translate(3.6 283.668)">
+        <path id="path18000-9" d="M3.888,281.655a2.3,2.3,0,1,0,2.306,2.3,2.31,2.31,0,0,0-2.306-2.3Z" transform="translate(-1.588 -281.655)" fill="#5b91b8"/>
+        <path id="path18002-0" d="M6.005,281.655a2.3,2.3,0,1,0,2.3,2.3A2.31,2.31,0,0,0,6.005,281.655Z" transform="translate(2.437 -281.655)" fill="#5b91b8"/>
+        <path id="path18004-80" d="M8.126,281.655a2.3,2.3,0,1,0,2.3,2.3,2.315,2.315,0,0,0-2.3-2.3Z" transform="translate(6.457 -281.655)" fill="#5b91b8"/>
+      </g>
+      <path id="path18006-80" d="M9.525,282.419v3.071a.768.768,0,0,0,.765.771H25.644a.768.768,0,0,0,.765-.771v-3.071a.768.768,0,0,0-.765-.765H10.253a.772.772,0,0,0-.728.765Z" transform="translate(17.1 2.012)" fill="#dbe9ee"/>
+      <path id="path18615" d="M2.887,285.358a.767.767,0,0,0-.771.765v19.96a.768.768,0,0,0,.771.765h35.3a.768.768,0,0,0,.771-.765v-19.96a.768.768,0,0,0-.771-.765Z" transform="translate(3.016 9.052)" fill="#ff6b6b"/>
+      <path id="path16811" d="M38.211,295.361a.768.768,0,1,0,0-1.535H2.868a.768.768,0,1,0,.04,1.535Z" transform="translate(2.995 25.147)" fill="#33658a"/>
+      <path id="path16813" d="M5.516,293.292a.768.768,0,0,0-.754.776v3.071a.768.768,0,1,0,1.535,0v-3.071a.768.768,0,0,0-.782-.776Z" transform="translate(8.047 24.133)" fill="#33658a"/>
+      <path id="path18623" d="M7.143,288.233v7.677a.768.768,0,0,0,1.173.652l6.142-3.841a.768.768,0,0,0,0-1.3l-6.142-3.841a.8.8,0,0,0-1.173.652Z" transform="translate(12.572 13.084)" fill="#dbe9ee"/>
+    </g>
+  </g>
+</svg>

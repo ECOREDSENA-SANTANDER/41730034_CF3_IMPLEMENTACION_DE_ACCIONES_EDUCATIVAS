@@ -73,6 +73,16 @@
     color: $color-sistema-texto !important;
 .linea-tiempo-d.color-acento-botones .linea-tiempo-d__item--selected .tarjeta--gris
     background-color: #FFDB99 !important;
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+    background-color: $color-acento-botones !important
+    border: none !important
+
+.slyder-a__bullets__item
+    background-color: #FFE0A6 !important
+    border: none !important
+.slyder-a__bullets__item--active
+    background-color: $color-acento-contenido !important
+    border: none !important
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -148,6 +158,15 @@
   &-15
     background-image: url("../assets/bg/1.svg") !important
     background-position: top
+  &-16
+    background-image: url("../assets/bg/15.svg") !important
+    background-position: center
+    
+  &-17
+    background-image: url("../assets/bg/16.png") !important
+    background-position: center
+    background-repeat: no-repeat
+    border-radius: 20px
 .bg-color
   &-1
     background-color: #EDEBF7 !important
@@ -192,6 +211,8 @@
     background-color: #B5AEE0
     background-size: contain;
     background-repeat: repeat-y;
+  &-white
+    background-color: #fff
 
 .h-card
   &-1
@@ -276,6 +297,10 @@
 .br
   &-1
     border-radius: 20px
+.text-sistema span,
+.boton.color-acento-botones *, .color-acento-botones.boton--sm *
+  color: $color-sistema-texto !important
+
 /**************************************************************/
 /*Media Queries*/  
 /**************************************************************/
