@@ -65,7 +65,6 @@
         .px-4.px-md-5.pb-md-3(data-aos="fade-left")
           .row.justify-content-center.align-items-center.mb-0
             .col-sm-12.col-lg-12
-              p.mb-4 Desde su implementación, AIEPI ha demostrado ser una herramienta eficaz para reducir la mortalidad infantil y mejorar la calidad de vida de los niños en países de ingresos bajos y medianos. Entre los principales logros de la estrategia se destacan: 
               SlyderF.mb-5(columnas="col-lg-4 col-xl-4")
                 .tarjeta.bg-fondo-18.p-3.p-md-3.p-lg-5
                     .row.align-items-center.my-4.justify-content-center.hide-icon-sm
@@ -211,7 +210,7 @@
             .row.justify-content-between.align-items-center.text-white
               .col.mb-3.mb-sm-0
                 h4.mb-1 Para fortalecer el tema anteriormente plasmado, se presenta el siguiente video: 
-                p.mb-0 https://www.youtube.com/watch?v=qIhY7mFNvpw
+                p.mb-0 18 prácticas claves en AIEPI.
               .col-sm-auto
                 a.boton.color-acento-botones.text-sistema(href="https://www.youtube.com/watch?v=qIhY7mFNvpw" target="_blank")
                   span Ver video

@@ -74,7 +74,7 @@
               .col-4.m-auto
                 figure
                   img(src='@/assets/curso/temas/t1/9.svg')
-            p.text-center.mb-0 #[b Vivienda saludable:] reconoce a la vivienda como un espacio que influye directamente en la salud y bienestar de las personas, fomenta la participación de la familia y la comunidad para identificar riesgos, mejorar las condiciones del hogar y su entorno, y fortalecer factores protectores, también impulsa la creación de redes de apoyo social y acciones para reducir riesgos ambientales, garantizando un ambiente físico, psicológico y social adecuado
+            p.text-center.mb-0 #[b Vivienda saludable:] reconoce a la vivienda como un espacio que influye directamente en la salud y bienestar de las personas, fomenta la participación de la familia y la comunidad para identificar riesgos, mejorar las condiciones del hogar y su entorno, y fortalecer factores protectores, también impulsa la creación de redes de apoyo social y acciones para reducir riesgos ambientales, garantizando un ambiente físico, psicológico y social adecuado.
 
       p.mb-0(data-aos="fade-left") Ambas estrategias integran la coordinación intersectorial y la participación comunitaria como ejes transversales, fomentando la vigilancia de prácticas de riesgo y la búsqueda de soluciones locales para mejorar la salud individual, familiar y comunitaria. 
       Separador
@@ -133,48 +133,48 @@
                       .row.align-items-center.my-4.justify-content-center.hide-icon-sm
                           .col-sm-12.col-md-3.col-lg-5
                               img(src='@/assets/curso/temas/t1/14.svg', alt='')
-                      h5.bg-color-12.text-center.p-1.mb-3 Derecho de participación:
+                      h5.bg-color-12.text-center.p-1.mb-3 Derecho de participación
                       p.mb-0.text-center  toda persona y pueblo tiene derecho a participar de forma libre, activa y significativa en el desarrollo. 
                   .tarjeta.bg-fondo-9.p-3.p-md-3.p-lg-5
                     .row.align-items-center.my-4.justify-content-center.hide-icon-sm
                         .col-sm-12.col-md-3.col-lg-5
                             img(src='@/assets/curso/temas/t1/15.svg', alt='')
-                    h5.bg-color-12.text-center.p-1.mb-3 Derecho a ser el sujeto central del desarrollo:
+                    h5.bg-color-12.text-center.p-1.mb-3 Derecho a ser el sujeto central del desarrollo
                     p.mb-0.text-center las personas deben estar en el centro del desarrollo; su bienestar es la prioridad.
 
                   .tarjeta.bg-fondo-9.p-3.p-md-3.p-lg-5
                     .row.align-items-center.my-4.justify-content-center.hide-icon-sm
                         .col-sm-12.col-md-3.col-lg-5
                             img(src='@/assets/curso/temas/t1/16.svg', alt='')
-                    h5.bg-color-12.text-center.p-1.mb-3 Derecho a la distribución justa:
+                    h5.bg-color-12.text-center.p-1.mb-3 Derecho a la distribución justa
                     p.mb-0.text-center los beneficios del desarrollo deben llegar a todos, sin discriminación.
 
                   .tarjeta.bg-fondo-9.p-3.p-md-3.p-lg-5
                     .row.align-items-center.my-4.justify-content-center.hide-icon-sm
                         .col-sm-12.col-md-3.col-lg-5
                             img(src='@/assets/curso/temas/t1/17.svg', alt='')
-                    h5.bg-color-12.text-center.p-1.mb-3 Derecho a la no discriminación:
+                    h5.bg-color-12.text-center.p-1.mb-3 Derecho a la no discriminación
                     p.mb-0.text-center todas las personas tienen derecho a disfrutar del desarrollo sin importar raza, sexo, idioma, religión, opinión política, origen nacional o social, condición económica o cualquier otra situación.
 
                   .tarjeta.bg-fondo-9.p-3.p-md-3.p-lg-5
                     .row.align-items-center.my-4.justify-content-center.hide-icon-sm
                         .col-sm-12.col-md-3.col-lg-5
                             img(src='@/assets/curso/temas/t1/18.svg', alt='')
-                    h5.bg-color-12.text-center.p-1.mb-3 Derecho a la libre determinación:
+                    h5.bg-color-12.text-center.p-1.mb-3 Derecho a la libre determinación
                     p.mb-0.text-center derecho de los pueblos a decidir libremente sobre sus recursos y su desarrollo.
 
                   .tarjeta.bg-fondo-9.p-3.p-md-3.p-lg-5
                     .row.align-items-center.my-4.justify-content-center.hide-icon-sm
                         .col-sm-12.col-md-3.col-lg-5
                             img(src='@/assets/curso/temas/t1/19.svg', alt='')
-                    h5.bg-color-12.text-center.p-1.mb-3 Derecho a la realización plena del ser humano:
+                    h5.bg-color-12.text-center.p-1.mb-3 Derecho a la realización plena del ser humano
                     p.mb-0.text-center desarrollo integral, garantizando todos sus derechos y libertades fundamentales.
 
                   .tarjeta.bg-fondo-9.p-3.p-md-3.p-lg-5
                     .row.align-items-center.my-4.justify-content-center.hide-icon-sm
                         .col-sm-12.col-md-3.col-lg-5
                             img(src='@/assets/curso/temas/t1/20.svg', alt='')
-                    h5.bg-color-12.text-center.p-1.mb-3 Derecho a estar protegido de las excepciones:
+                    h5.bg-color-12.text-center.p-1.mb-3 Derecho a estar protegido de las excepciones
                     p.mb-0.text-center protección contra cualquier violación de derechos humanos, incluidos los derechos civiles, políticos, económicos, sociales y culturales.
 
       .row.justify-content-center.mb-4.align-items-center(data-aos="fade-left")

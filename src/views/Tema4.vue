@@ -25,7 +25,7 @@
             .row.justify-content-between.align-items-center.text-white
               .col.mb-3.mb-sm-0
                 h4.mb-1 Para fortalecer el tema anteriormente plasmado, se presenta el siguiente video: 
-                p.mb-0 https://www.youtube.com/watch?v=k0-hkZI8oyE 
+                p.mb-0 Niñez protegida con estrategia AIEPI.
               .col-sm-auto
                 a.boton.color-acento-botones.text-sistema(href="https://www.youtube.com/watch?v=k0-hkZI8oyE" target="_blank")
                   span Ver video
