@@ -95,7 +95,7 @@ export default {
         {
           id: 4,
           texto:
-            'La estrategia de entornos saludables (EES) no tiene relación con la atención infantil y la promoción de la salud.',
+            'La Estrategia de Entornos Saludables (EES) no tiene relación con la atención infantil y la promoción de la salud.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

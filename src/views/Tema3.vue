@@ -10,7 +10,7 @@
         .col-sm-12.col-lg-1.d-none.d-lg-block
           img(src='@/assets/curso/temas/t3/1.svg', alt='')
         .col-sm-12.col-lg-11
-          p.mb-0 De acuerdo con la organización panamericana de la salud (OPS) y la organización mundial de la salud (OMS), la promoción de la salud es un proceso esencial que permite a las personas, familias y comunidades fortalecer su capacidad para mejorar su bienestar y calidad de vida; para lograrlo, se requiere no solo el acceso a servicios de salud, sino también la creación de entornos saludables y el desarrollo de habilidades personales y colectivas. 
+          p.mb-0 De acuerdo con la Organización Panamericana de la Salud (OPS) y la Organización Mundial de la Salud (OMS), la promoción de la salud es un proceso esencial que permite a las personas, familias y comunidades fortalecer su capacidad para mejorar su bienestar y calidad de vida; para lograrlo, se requiere no solo el acceso a servicios de salud, sino también la creación de entornos saludables y el desarrollo de habilidades personales y colectivas. 
       p.mb-4(data-aos="fade-left") La promoción de la salud se basa en tres mecanismos intrínsecos o internos de las personas, que permiten generar comportamientos saludables y protegerse frente a las enfermedades, los cuales se detallan a continuación: 
       TabsA.color-acento-botones.mb-5(data-aos="fade-left")
         .tarjeta.bg-color-9.p-4(titulo="Autocuidado")
@@ -114,7 +114,7 @@
               .lista-ol--cuadro__vineta
                 span 4
               p.mb-0 Mejorar la calidad de vida desde una perspectiva integral que involucra a las personas, familias, comunidades y al Estado.
-          p.mb-0 Además, la promoción de la salud mediante estos mecanismos contribuye al logro de los objetivos de desarrollo sostenible (ODS), especialmente los relacionados con la salud y el bienestar (ODS 3), la educación de calidad (ODS 4), la reducción de las desigualdades (ODS 10), y las ciudades y comunidades sostenibles (ODS 11). 
+          p.mb-0 Además, la promoción de la salud mediante estos mecanismos contribuye al logro de los Objetivos de Desarrollo Sostenible (ODS), especialmente los relacionados con la salud y el bienestar (ODS 3), la educación de calidad (ODS 4), la reducción de las desigualdades (ODS 10), y las ciudades y comunidades sostenibles (ODS 11). 
 
       Separador
       #t_3_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -163,7 +163,7 @@
           img(src='@/assets/curso/temas/t3/11.png')
         .col-sm-12.col-lg-8
           AcordionA(tipo="a" clase-tarjeta="tarjeta  bg-color-2")
-            div(titulo='Ley 1751 de 2015 (ley estatutaria de salud)')
+            div(titulo='Ley 1751 de 2015 (Ley estatutaria de salud)')
               .row.mb-0
                 .col-12
                   p.mb-0 Reconoce la salud como un derecho fundamental autónomo, universal e irrenunciable, que debe ser garantizado por el estado en condiciones de calidad, oportunidad y dignidad.
@@ -171,7 +171,7 @@
             div(titulo='Ley 1438 de 2011')
               .row.mb-0
                 .col-12
-                  p.mb-0 Reforma del sistema general de seguridad social en salud, priorizando la atención primaria en salud, la promoción y prevención, y el acceso equitativo a los servicios.
+                  p.mb-0 Reforma del Sistema General de Seguridad Social en Salud, priorizando la atención primaria en salud, la promoción y prevención, y el acceso equitativo a los servicios.
 
             div(titulo='Política nacional de salud pública (CONPES 140 de 2011)')
               .row.mb-0
@@ -183,7 +183,7 @@
                 .col-12
                   p.mb-0 Adopta la ruta integral de atención en salud (RIAS), que define las acciones, intervenciones y servicios necesarios para atender las necesidades en salud a lo largo del curso de vida.
 
-            div(titulo='Ley 1804 de 2016 (ley de cero a siempre)')
+            div(titulo='Ley 1804 de 2016 (Ley de cero a siempre)')
               .row.mb-0
                 .col-12
                   p.mb-0 Política pública para el desarrollo integral de la primera infancia, articulando acciones en salud, nutrición, educación, protección y participación.
@@ -193,7 +193,7 @@
                 .col-12
                   p.mb-0 Promueve la participación activa y efectiva de las personas y comunidades en la toma de decisiones sobre su salud y bienestar.
 
-            div(titulo='Política nacional ambiental (ley 99 de 1993)')
+            div(titulo='Política nacional ambiental (Ley 99 de 1993)')
               .row.mb-0
                 .col-12
                   p.mb-0 Relacionada con la promoción de la salud a través del saneamiento básico, acceso al agua potable y control ambiental, fundamentales para prevenir enfermedades y garantizar entornos saludables.
@@ -260,7 +260,7 @@
               tr
                 td.fw-bold Ley 100 de 1993
                 td 
-                  p.mb-4 Crea el sistema general de seguridad social en salud (SGSSS), garantizando el acceso de la población colombiana a la seguridad social en salud mediante dos componentes:
+                  p.mb-4 Crea el Sistema General de Seguridad Social en Salud (SGSSS), garantizando el acceso de la población colombiana a la seguridad social en salud mediante dos componentes:
                   ol.lista-ol--cuadro.mb-0
                     li.d-flex
                       .lista-ol--cuadro__vineta
@@ -275,12 +275,12 @@
               tr
                 td.fw-bold Resolución 0412 de 2000
                 td
-                  p.mb-0 Establece las normas, guías y protocolos de atención para las entidades promotoras de salud (EPS) y las instituciones prestadoras de servicios de salud (IPS) que manejan el POS, con el fin de garantizar una atención integral.
+                  p.mb-0 Establece las normas, guías y protocolos de atención para las Entidades Promotoras de Salud (EPS) y las Instituciones Prestadoras de Servicios de Salud (IPS) que manejan el POS, con el fin de garantizar una atención integral.
 
               tr
                 td.fw-bold Circular externa 052 de 2002
                 td
-                  p.mb-0 Define metas, actividades e indicadores de cumplimiento obligatorio dentro del plan de atención básica (PAB), para asegurar la cobertura y calidad de las intervenciones en salud pública.
+                  p.mb-0 Define metas, actividades e indicadores de cumplimiento obligatorio dentro del Plan de Atención Básica (PAB), para asegurar la cobertura y calidad de las intervenciones en salud pública.
 
               tr
                 td.fw-bold Circular 018 de 2004
@@ -303,7 +303,7 @@
               tr
                 td.fw-bold Ley 1122 de 2007
                 td
-                  p.mb-0 Introduce ajustes a la ley 100 de 1993 y al SGSSS, estableciendo:
+                  p.mb-0 Introduce ajustes a la Ley 100 de 1993 y al SGSSS, estableciendo:
                   ul.lista-ul--color.mb-0.mt-2
                     li.d-flex
                       i.fas.fa-check-circle.bg-color-3
@@ -331,8 +331,8 @@
               tr
                 td.fw-bold Resolución 425 de 2008
                 td
-                  p.mb-4 Define la metodología para la elaboración, ejecución, seguimiento y evaluación del plan de salud pública territorial (PSPT).
-                  p.mb-0 Regula las acciones de los planes de salud pública de intervenciones colectivas (PIC) a cargo de los entes territoriales.
+                  p.mb-4 Define la metodología para la elaboración, ejecución, seguimiento y evaluación del Plan de Salud Pública Territorial (PSPT).
+                  p.mb-0 Regula las acciones de los Planes de Salud Pública de Intervenciones Colectivas (PIC) a cargo de los entes territoriales.
 
       p.mb-4(data-aos="fade-left") El conocimiento y aplicación del marco normativo en salud es clave para los profesionales, instituciones y comunidades, ya que: 
       .row.justify-content-center.mb-0(data-aos="fade-left")
@@ -368,10 +368,11 @@
                 ul.lista-ul--color.mb-0
                   li.d-flex
                     i.fas.fa-check-circle.bg-color-3
-                    p.mb-0 Experiencias previas relacionadas con conductas de salud.
-                    li.d-flex
+                    p.mb-0 Conductas previas relacionadas, que afectan la forma en que las personas enfrentan nuevas decisiones sobre su salud.
+                   
+                  li.d-flex
                       i.fas.fa-check-circle.bg-color-3
-                      p.mb-0 Factores personales: aspectos biológicos, psicológicos y socioculturales, como edad, género, cultura, educación, nivel socioeconómico y creencias.
+                      p.mb-0  Factores personales como aspectos biológicos, psicológicos y socioculturales (por ejemplo, edad, género, estado emocional, cultura, creencias, y contexto social). 
 
             .row(numero="b" titulo="Cogniciones y afectos relacionados con la conducta específicaz")
               .col-sm-12.col-lg-12
@@ -414,7 +415,7 @@
         .col-sm-12.col-lg-10
           .titulo-sexto.color-acento-contenido
               p.mb-0 #[b Figura 1.]  Modelo de promoción de la salud según Pender
-          img(src='@/assets/curso/temas/t3/20.svg', alt='modelo de promoción de la salud según Pender explica cómo las personas adoptan conductas saludables. Se basa en factores individuales (experiencias previas y características personales), percepciones (beneficios, barreras, autoeficacia e influencias externas) y compromiso con la acción, lo que finalmente lleva a una conducta promotora de la salud.')
+          img(src='@/assets/curso/temas/t3/20.svg', alt='Modelo de promoción de la salud según Pender explica cómo las personas adoptan conductas saludables. Se basa en factores individuales (experiencias previas y características personales), percepciones (beneficios, barreras, autoeficacia e influencias externas) y compromiso con la acción, lo que finalmente lleva a una conducta promotora de la salud.')
 
 
       .row.justify-content-center.mb-5(data-aos="fade-left")

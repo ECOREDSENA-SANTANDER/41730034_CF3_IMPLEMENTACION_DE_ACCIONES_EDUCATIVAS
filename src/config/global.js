@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Integración EES-AIEPI según modelo de gestión local',
     Description:
-      'La promoción de la salud busca capacitar a las personas para ejercer control sobre su salud y mejorarla, promoviendo el bienestar físico, mental y social. En este componente formativo se abordarán la promoción y educación en salud como acciones clave para incursionar en la integración de la estrategia de entornos saludables (EES) y la atención integrada a las enfermedades prevalentes de la infancia (AIEPI).',
+      'La promoción de la salud busca capacitar a las personas para ejercer control sobre su salud y mejorarla, promoviendo el bienestar físico, mental y social. En este componente formativo se abordarán la promoción y educación en salud como acciones clave para incursionar en la integración de la Estrategia de Entornos Saludables (EES) y la Atención Integrada a las Enfermedades Prevalentes de la Infancia (AIEPI).',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
@@ -70,7 +70,7 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Marco normativo de la promoción de la salud en colombia',
+            titulo: 'Marco normativo de la promoción de la salud en Colombia',
             hash: 't_3_1',
           },
           {
@@ -84,14 +84,14 @@ export default {
         nombreRuta: 'tema4',
         numero: '4',
         titulo:
-          'Estrategia de atención integrada a las enfermedades prevalentes de la infancia (AIEPI)',
+          'Estrategia de Atención Integrada a las Enfermedades Prevalentes de la Infancia de Entornos Saludables (AIEPI)',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
         titulo:
-          'Integración de la estrategia de entornos saludables (EES) y la estrategia AIEPI',
+          'Integración de la Estrategia de Entornos Saludables (EES) y la estrategia AIEPI',
         desarrolloContenidos: true,
       },
     ],
@@ -143,7 +143,7 @@ export default {
   complementario: [
     {
       tema:
-        'Lineamientos nacionales para la aplicación y el desarrollo de las EES. Ministerio de salud y protección social de Colombia.',
+        'Directrices nacionales que favorecen el desarrollo de las estrategias.',
       referencia:
         'Ministerio de Salud y Protección Social. (s.f.). Lineamientos nacionales para la aplicación y el desarrollo de las EES. Ministerio de salud y protección social de Colombia.',
       tipo: 'PDF',
@@ -151,7 +151,8 @@ export default {
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/lineamientos-nacionales-para-la-aplicacion-y-el-desarrollo-de-las-ees.pdf',
     },
     {
-      tema: '18 prácticas claves en AIEPI.',
+      tema:
+        'Promoción de la salud, determinantes sociales y su relación con el desarrollo humano.',
       referencia:
         'Nacer SSR UDEA. (2014, 31 marzo). 18 prácticas claves en AIEPI [Vídeo].',
       tipo: 'Video',
@@ -159,14 +160,14 @@ export default {
     },
     {
       tema:
-        'Determinantes sociodemográficos de aplicación de prácticas clave AIEPI para prevenir enfermedades.',
+        'Estrategia de Atención Integrada a las Enfermedades Prevalentes de la Infancia (AIEPI).',
       referencia:
         'Castillo, I. Y., González, Y. M., & Gutiérrez, N. (2016). Determinantes sociodemográficos de aplicación de prácticas clave AIEPI para prevenir enfermedades. Área rural, Cartagena, Colombia.',
       tipo: 'PDF',
-      link: 'Determinantes Sociodemográficos.pdf',
+      descarga: '/downloads/Determinantes_Sociodemograficos.pdf',
     },
     {
-      tema: 'Niñez protegida con estrategia AIEPI.',
+      tema: 'Modelo de promoción de la salud.',
       referencia:
         'Ministerio de Salud y Protección Social. (s.f.). Niñez protegida con estrategia AIEPI. Ministerio de Salud y Protección Social de Colombia.',
       tipo: 'Video',
@@ -220,7 +221,7 @@ export default {
     },
     {
       termino: 'AIEPI',
-      significado: 'atención integral a la infancia.',
+      significado: ' Atención Integral a la Infancia.',
     },
     {
       termino: 'EES',
@@ -238,7 +239,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Ministerio de la protección social, ministerio de educación nacional & ministerio de ambiente, vivienda y desarrollo territorial. (2006). Lineamientos nacionales para la aplicación y el desarrollo de las estrategias de entornos saludables: escuela saludable y vivienda saludable. Bogotá, Colombia. ISBN 978-958-97582-5-0.',
+        'Ministerio de la protección social, Ministerio de Educación Nacional & Ministerio de Ambiente, Vivienda y Desarrollo Territorial. (2006). Lineamientos nacionales para la aplicación y el desarrollo de las estrategias de entornos saludables: escuela saludable y vivienda saludable. Bogotá, Colombia. ISBN 978-958-97582-5-0.',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/lineamientos-nacionales-para-la-aplicacion-y-el-desarrollo-de-las-ees.pdf',
     },
@@ -313,7 +314,18 @@ export default {
     },
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
-      autores: [],
+      autores: [
+        {
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora de recursos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+      ],
     },
   ],
   creditosAdicionales: {

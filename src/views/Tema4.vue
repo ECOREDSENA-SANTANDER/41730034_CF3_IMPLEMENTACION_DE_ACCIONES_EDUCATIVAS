@@ -5,13 +5,13 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 4
-        h1 Estrategia de atención integrada a las enfermedades prevalentes de la infancia (AIEPI)
+        h1 Estrategia de Atención Integrada a las Enfermedades Prevalentes de la Infancia (AIEPI)
       
       .row.justify-content-center.mb-5(data-aos="fade-left")
         .col-sm-12.col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/temas/t4/1.png', alt='')
         .col-sm-12.col-lg-8
-            p.mb-4 La estrategia de atención integrada a las enfermedades prevalentes de la infancia (AIEPI) es una iniciativa desarrollada por la organización panamericana de la salud (OPS) y la organización mundial de la salud (OMS) con el objetivo de reducir la morbilidad y mortalidad en niños menores de cinco años; se centra en el abordaje integral de las enfermedades más comunes en esta población, como infecciones respiratorias agudas, enfermedades diarreicas, desnutrición y otras condiciones prevenibles mediante un enfoque basado en la atención primaria en salud. 
+            p.mb-4 La estrategia de Atención Integrada a las Enfermedades Prevalentes de la Infancia (AIEPI) es una iniciativa desarrollada por la Organización Panamericana de la Salud (OPS) y la Organización Mundial de la Salud (OMS) con el objetivo de reducir la morbilidad y mortalidad en niños menores de cinco años; se centra en el abordaje integral de las enfermedades más comunes en esta población, como infecciones respiratorias agudas, enfermedades diarreicas, desnutrición y otras condiciones prevenibles mediante un enfoque basado en la atención primaria en salud. 
             .row.justify-content-center.mb-5
               .col-sm-12.col-lg-9
                   p.mb-0 En Colombia, la implementación de AIEPI comenzó en 1996 como una estrategia para fortalecer la calidad de la atención en salud infantil y mejorar la capacidad de respuesta del sistema de salud frente a enfermedades prevenibles, A lo largo de los años, AIEPI ha evolucionado incorporando nuevos enfoques y herramientas tecnológicas que facilitan su aplicación en distintos contextos, incluidos entornos rurales y comunidades de difícil acceso. 

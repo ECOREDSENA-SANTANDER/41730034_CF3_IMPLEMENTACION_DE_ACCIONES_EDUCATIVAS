@@ -134,48 +134,48 @@
                           .col-sm-12.col-md-3.col-lg-5
                               img(src='@/assets/curso/temas/t1/14.svg', alt='')
                       h5.bg-color-12.text-center.p-1.mb-3 Derecho de participación
-                      p.mb-0.text-center  toda persona y pueblo tiene derecho a participar de forma libre, activa y significativa en el desarrollo. 
+                      p.mb-0.text-center  Toda persona y pueblo tiene derecho a participar de forma libre, activa y significativa en el desarrollo. 
                   .tarjeta.bg-fondo-9.p-3.p-md-3.p-lg-5
                     .row.align-items-center.my-4.justify-content-center.hide-icon-sm
                         .col-sm-12.col-md-3.col-lg-5
                             img(src='@/assets/curso/temas/t1/15.svg', alt='')
                     h5.bg-color-12.text-center.p-1.mb-3 Derecho a ser el sujeto central del desarrollo
-                    p.mb-0.text-center las personas deben estar en el centro del desarrollo; su bienestar es la prioridad.
+                    p.mb-0.text-center Las personas deben estar en el centro del desarrollo; su bienestar es la prioridad.
 
                   .tarjeta.bg-fondo-9.p-3.p-md-3.p-lg-5
                     .row.align-items-center.my-4.justify-content-center.hide-icon-sm
                         .col-sm-12.col-md-3.col-lg-5
                             img(src='@/assets/curso/temas/t1/16.svg', alt='')
                     h5.bg-color-12.text-center.p-1.mb-3 Derecho a la distribución justa
-                    p.mb-0.text-center los beneficios del desarrollo deben llegar a todos, sin discriminación.
+                    p.mb-0.text-center Los beneficios del desarrollo deben llegar a todos, sin discriminación.
 
                   .tarjeta.bg-fondo-9.p-3.p-md-3.p-lg-5
                     .row.align-items-center.my-4.justify-content-center.hide-icon-sm
                         .col-sm-12.col-md-3.col-lg-5
                             img(src='@/assets/curso/temas/t1/17.svg', alt='')
                     h5.bg-color-12.text-center.p-1.mb-3 Derecho a la no discriminación
-                    p.mb-0.text-center todas las personas tienen derecho a disfrutar del desarrollo sin importar raza, sexo, idioma, religión, opinión política, origen nacional o social, condición económica o cualquier otra situación.
+                    p.mb-0.text-center Todas las personas tienen derecho a disfrutar del desarrollo sin importar raza, sexo, idioma, religión, opinión política, origen nacional o social, condición económica o cualquier otra situación.
 
                   .tarjeta.bg-fondo-9.p-3.p-md-3.p-lg-5
                     .row.align-items-center.my-4.justify-content-center.hide-icon-sm
                         .col-sm-12.col-md-3.col-lg-5
                             img(src='@/assets/curso/temas/t1/18.svg', alt='')
                     h5.bg-color-12.text-center.p-1.mb-3 Derecho a la libre determinación
-                    p.mb-0.text-center derecho de los pueblos a decidir libremente sobre sus recursos y su desarrollo.
+                    p.mb-0.text-center Derecho de los pueblos a decidir libremente sobre sus recursos y su desarrollo.
 
                   .tarjeta.bg-fondo-9.p-3.p-md-3.p-lg-5
                     .row.align-items-center.my-4.justify-content-center.hide-icon-sm
                         .col-sm-12.col-md-3.col-lg-5
                             img(src='@/assets/curso/temas/t1/19.svg', alt='')
                     h5.bg-color-12.text-center.p-1.mb-3 Derecho a la realización plena del ser humano
-                    p.mb-0.text-center desarrollo integral, garantizando todos sus derechos y libertades fundamentales.
+                    p.mb-0.text-center Desarrollo integral, garantizando todos sus derechos y libertades fundamentales.
 
                   .tarjeta.bg-fondo-9.p-3.p-md-3.p-lg-5
                     .row.align-items-center.my-4.justify-content-center.hide-icon-sm
                         .col-sm-12.col-md-3.col-lg-5
                             img(src='@/assets/curso/temas/t1/20.svg', alt='')
                     h5.bg-color-12.text-center.p-1.mb-3 Derecho a estar protegido de las excepciones
-                    p.mb-0.text-center protección contra cualquier violación de derechos humanos, incluidos los derechos civiles, políticos, económicos, sociales y culturales.
+                    p.mb-0.text-center Protección contra cualquier violación de derechos humanos, incluidos los derechos civiles, políticos, económicos, sociales y culturales.
 
       .row.justify-content-center.mb-4.align-items-center(data-aos="fade-left")
         .col-sm-12.col-lg-1.d-none.d-lg-block
@@ -183,11 +183,14 @@
         .col-sm-12.col-lg-11
           p.mb-0 #[b Relación con la constitución política de 1991:] en Colombia, la constitución política de 1991 reconoce los derechos humanos como pilar fundamental, destacando en el Artículo 5: 
 
-      .row.justify-content-center.mb-5(data-aos="fade-left")
+      .row.justify-content-center.mb-5.align-items-center(data-aos="fade-left")
         .col-sm-12.col-lg-8
-          .bloque-texto-c.bg-color-13.p-3
-            i.fas.fa-quote-right
-            h4.mb-2 El estado reconoce, sin discriminación alguna, la primacía de los derechos inalienables de la persona y ampara a la familia como institución básica de la sociedad. 
+          .bloque-texto-f.bg-color-13.pt-4.px-5.mb-0
+            .bloque-texto-f__comillas
+              i.fas.fa-quote-left
+              i.fas.fa-quote-right
+            .bloque-texto-f__texto.h4.mb-0.mt-4 El estado reconoce, sin discriminación alguna, la primacía de los derechos inalienables de la persona y ampara a la familia como institución básica de la sociedad. 
+            
         .col-sm-12.col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/21.png', alt='')
 
@@ -209,12 +212,14 @@
           img(src='@/assets/bg/2.svg', alt='')
         .col
           h3.mb-0.titulo-icono-text.p-0 Promoción de la salud como proceso social y político
-      p.mb-4(data-aos="fade-left") De acuerdo con la organización mundial de la salud (OMS), la promoción de la salud es un proceso político y social global que no solo busca fortalecer las capacidades y habilidades individuales, sino también modificar las condiciones sociales, económicas, ambientales y culturales que influyen en la salud, esto implica trabajar sobre los determinantes sociales de la salud, entendidos como: 
+      p.mb-4(data-aos="fade-left") De acuerdo con la Organización Mundial de la Salud (OMS), la promoción de la salud es un proceso político y social global que no solo busca fortalecer las capacidades y habilidades individuales, sino también modificar las condiciones sociales, económicas, ambientales y culturales que influyen en la salud, esto implica trabajar sobre los determinantes sociales de la salud, entendidos como: 
       .row.justify-content-center.mb-5(data-aos="fade-left")
         .col-sm-12.col-lg-6
-          .bloque-texto-c.bg-color-14.p-3.mb-cus
-            i.fas.fa-quote-right
-            h4.mb-0 El conjunto de factores personales, sociales, económicos y ambientales que determinan el estado de salud de los individuos o poblaciones.
+          .bloque-texto-f.bg-color-14.pt-4.px-5.mb-0.mb-cus
+            .bloque-texto-f__comillas
+              i.fas.fa-quote-left
+              i.fas.fa-quote-right
+            p.bloque-texto-f__texto.mb-0.mt-4 El conjunto de factores personales, sociales, económicos y ambientales que determinan el estado de salud de los individuos o poblaciones.
         .col-sm-12.col-lg-4
           p.mb-0 Entre estos factores se encuentran las condiciones de vida, los ingresos, la educación, el trabajo, la vivienda, el acceso a servicios básicos, el entorno físico, entre otros; actuar sobre estos determinantes permite generar entornos saludables, equitativos y seguros para todas las personas, promoviendo así su desarrollo integral. 
         .col-sm-12.col-lg-2.d-none.d-lg-block

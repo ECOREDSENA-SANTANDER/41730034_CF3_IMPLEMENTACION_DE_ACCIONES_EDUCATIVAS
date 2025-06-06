@@ -5,13 +5,13 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 5
-        h1 Integración de la estrategia de entornos saludables (EES) y la estrategia AIEPI
+        h1 Integración de la Estrategia de Entornos Saludables (EES) y la estrategia AIEPI
       
       .row.justify-content-center.mb-5(data-aos="fade-left")
         .col-sm-12.col-lg-4
           img.mb-5.d-none.d-lg-block(src='@/assets/curso/temas/t5/1.png', alt='')
         .col-sm-12.col-lg-8
-          p.mb-4 La estrategia de entornos saludables (EES) se integra con AIEPI para fortalecer un enfoque preventivo y de promoción de la salud, permitiendo una intervención más efectiva en la infancia. De acuerdo con la OPS/OMS, esta integración busca: 
+          p.mb-4 La Estrategia de Entornos Saludables (EES) se integra con AIEPI para fortalecer un enfoque preventivo y de promoción de la salud, permitiendo una intervención más efectiva en la infancia. De acuerdo con la OPS/OMS, esta integración busca: 
           .bg-color-11.p-4.mb-5
             ul.lista-ul--color.mb-0
                 li.d-flex
@@ -28,7 +28,7 @@
 
                 li.d-flex.mb-0
                   i.fas.fa-check-circle.bg-color-3
-                  p.mb-0 Asegurar el cumplimiento de compromisos internacionales, alineándose con los objetivos de desarrollo sostenible (ODS) y los planes nacionales de salud pública. 
+                  p.mb-0 Asegurar el cumplimiento de compromisos internacionales, alineándose con los Objetivos de Desarrollo Sostenible (ODS) y los planes nacionales de salud pública. 
           p.mb-0 AIEPI y EES trabajan de manera complementaria para fortalecer la atención en salud infantil, promoviendo entornos seguros y saludables para el crecimiento y desarrollo de los niños.  
       
       .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
@@ -38,7 +38,7 @@
           h3.mb-0.titulo-icono-text.p-0 Componente comunitario de la estrategia AIEPI 
       .row.justify-content-center.mb-5(data-aos="fade-left")
         .col-sm-12.col-lg-8
-          p.mb-4 La organización panamericana de la salud (OPS) y la organización mundial de la salud (OMS), junto con el ministerio de salud y protección social de Colombia, establecieron en 2010 la importancia del componente comunitario dentro de la estrategia AIEPI, este componente tiene un enfoque basado en la comunidad y las familias, con el propósito de promover prácticas familiares esenciales que favorezcan el crecimiento y desarrollo saludable de los niños. 
+          p.mb-4 La Organización Panamericana de la Salud (OPS) y la Organización Mundial de la Salud (OMS), junto con el Ministerio de Salud y Protección Social de Colombia, establecieron en 2010 la importancia del componente comunitario dentro de la estrategia AIEPI, este componente tiene un enfoque basado en la comunidad y las familias, con el propósito de promover prácticas familiares esenciales que favorezcan el crecimiento y desarrollo saludable de los niños. 
           .row.justify-content-center.mb-4(data-aos="fade-left")
             .col-sm-12.col-lg-2.d-none.d-lg-block
               img.w-75(src='@/assets/curso/temas/t5/3.svg', alt='')
@@ -224,12 +224,12 @@
             .col-sm-12.col-lg-2.d-none.d-lg-block.m-0.p-0.mb-2
               img.w-50(src='@/assets/curso/temas/t5/16.svg', alt='')
             .col-sm-12.col-lg-12
-              p.mb-0 La estrategia de atención integrada a las enfermedades prevalentes de la infancia (AIEPI) ha demostrado ser una herramienta fundamental en la reducción de la morbilidad y mortalidad infantil, promoviendo un enfoque integral que combina la atención en los servicios de salud con la participación activa de las familias y comunidades, a través de sus componentes institucional, clínico y comunitario, AIEPI fortalece la capacidad de los sistemas de salud, mejora la calidad de la atención médica y fomenta prácticas clave en el hogar que garantizan el bienestar infantil. 
+              p.mb-0 La estrategia de Atención Integrada a las Enfermedades Prevalentes de la Infancia (AIEPI) ha demostrado ser una herramienta fundamental en la reducción de la morbilidad y mortalidad infantil, promoviendo un enfoque integral que combina la atención en los servicios de salud con la participación activa de las familias y comunidades, a través de sus componentes institucional, clínico y comunitario, AIEPI fortalece la capacidad de los sistemas de salud, mejora la calidad de la atención médica y fomenta prácticas clave en el hogar que garantizan el bienestar infantil. 
 
       .row.justify-content-center.align-items-start.mb-0(data-aos="fade-left")
         .col-sm-12.col-lg-6.mb-cus
           .bg-color-14.br-1.px-4.py-4.mb-0
-              p.mb-0.py-2 La integración de AIEPI con estrategias como entornos saludables (EES) y la promoción de prácticas esenciales en nutrición, prevención de enfermedades, cuidados en el hogar y búsqueda oportuna de atención médica, han permitido mejorar la equidad en salud, especialmente en poblaciones vulnerables, a medida que evolucionan los desafíos en salud pública, la estrategia sigue adaptándose mediante la incorporación de tecnología, educación en salud y acciones comunitarias, asegurando un impacto sostenible en la infancia. 
+              p.mb-0.py-2 La integración de AIEPI con Estrategias como Entornos Saludables (EES) y la promoción de prácticas esenciales en nutrición, prevención de enfermedades, cuidados en el hogar y búsqueda oportuna de atención médica, han permitido mejorar la equidad en salud, especialmente en poblaciones vulnerables, a medida que evolucionan los desafíos en salud pública, la estrategia sigue adaptándose mediante la incorporación de tecnología, educación en salud y acciones comunitarias, asegurando un impacto sostenible en la infancia. 
         .col-sm-12.col-lg-3.d-none.d-lg-block
           img(src='@/assets/curso/temas/t5/17.svg', alt='')
         .col-sm-12.col-lg-3

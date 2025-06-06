@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-0 La integración de la estrategia de entornos saludables (EES) y AIEPI en la gestión local fortalece la promoción de la salud y el desarrollo sostenible mediante un enfoque intersectorial; se basa en cinco pilares: desarrollo humano, políticas de entornos saludables, educación en salud, fortalecimiento de AIEPI y su integración con EES. Este modelo impulsa la equidad en salud, fomenta prácticas clave en la comunidad y mejora la calidad de vida infantil a través de la articulación de políticas, educación y prevención. 
+    p.mb-0 La integración de la Estrategia de Entornos Saludables (EES) y AIEPI en la gestión local fortalece la promoción de la salud y el desarrollo sostenible mediante un enfoque intersectorial; se basa en cinco pilares: desarrollo humano, políticas de entornos saludables, educación en salud, fortalecimiento de AIEPI y su integración con EES. Este modelo impulsa la equidad en salud, fomenta prácticas clave en la comunidad y mejora la calidad de vida infantil a través de la articulación de políticas, educación y prevención. 
     
 
     .row.justify-content-center

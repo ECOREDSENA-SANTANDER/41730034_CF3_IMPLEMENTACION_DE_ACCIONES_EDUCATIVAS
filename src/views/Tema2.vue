@@ -10,7 +10,7 @@
         .col-sm-12.col-lg-1.d-none.d-lg-block
           img(src='@/assets/curso/temas/t2/1.svg', alt='')
         .col-sm-12.col-lg-11
-          p.mb-0  Los objetivos de desarrollo del milenio (ODM): un compromiso global para promover el desarrollo humano; se entienden como Colombia, en articulación con el sistema de naciones unidas, ha venido implementando desde 2003 una agenda nacional para cumplir con los compromisos adquiridos en el marco de los objetivos de desarrollo del milenio (ODM); esta agenda, adaptada y formalizada mediante el CONPES Social 91 (2005), planteó un conjunto de propuestas y acciones para avanzar en el logro de las metas acordadas a nivel internacional, centradas en reducir la pobreza, mejorar la salud, la educación y garantizar el desarrollo humano sostenible. 
+          p.mb-0  Los Objetivos de Desarrollo del Milenio (ODM): un compromiso global para promover el desarrollo humano; se entienden como Colombia, en articulación con el sistema de naciones unidas, ha venido implementando desde 2003 una agenda nacional para cumplir con los compromisos adquiridos en el marco de los Objetivos de Desarrollo del Milenio (ODM); esta agenda, adaptada y formalizada mediante el CONPES Social 91 (2005), planteó un conjunto de propuestas y acciones para avanzar en el logro de las metas acordadas a nivel internacional, centradas en reducir la pobreza, mejorar la salud, la educación y garantizar el desarrollo humano sostenible. 
 
       .row.justify-content-center.mb-5(data-aos="fade-left")
         .col-sm-12.col-lg-6
@@ -94,9 +94,9 @@
         .col-lg-5.p-0.d-none.d-lg-block
           img(src='@/assets/curso/temas/t2/4.png', alt='', style="object-fit: cover")
         .col-lg-7.col-sm-12.align-content-center.bg-color-15
-          p.px-3.my-3 #[b Avances y desafíos actuales:] transición a los objetivos de desarrollo sostenible (ODS); si bien los ODM marcaron una agenda histórica que logró importantes avances en varios países, todavía persisten grandes desafíos relacionados con la desigualdad, el acceso a la salud, y la pobreza extrema, por ello, en 2015, la comunidad internacional adoptó los objetivos de desarrollo sostenible (ODS), ampliando y profundizando los ODM, con 17 objetivos más integrales y centrados en la sostenibilidad social, económica y ambiental. 
+          p.px-3.my-3 #[b Avances y desafíos actuales:] transición a los Objetivos de Desarrollo Sostenible (ODS); si bien los ODM marcaron una agenda histórica que logró importantes avances en varios países, todavía persisten grandes desafíos relacionados con la desigualdad, el acceso a la salud, y la pobreza extrema, por ello, en 2015, la comunidad internacional adoptó los Objetivos de Desarrollo Sostenible (ODS), ampliando y profundizando los ODM, con 17 objetivos más integrales y centrados en la sostenibilidad social, económica y ambiental. 
           .bg-color-1.p-3.mb-3.mx-3.br-1
-            p.mb-4.fw-bold Importancia de los ODM para el desarrollo humano
+            p.mb-4.fw-bold Entre los principales retos actuales se destacan:
             ul.lista-ul--color.mb-0
               li.d-flex
                 i.fas.fa-check-circle.bg-color-3
@@ -123,9 +123,11 @@
           p.mb-4 En Colombia, el desarrollo de estrategias para mejorar la calidad de vida y el bienestar de la población se ha fortalecido a partir de políticas públicas intersectoriales, promovidas por el estado en alianza con diversos actores sociales, estas directrices han sido fundamentales para impulsar estrategias como escuela saludable y vivienda saludable, las cuales buscan promover entornos protectores, fortalecer capacidades individuales y colectivas, y fomentar el desarrollo humano sostenible.
           p.mb-4 Desde el enfoque propuesto, se reconoce el papel clave de los ministerios y entidades gubernamentales en la construcción de políticas que respondan a las necesidades sociales, especialmente en el ámbito de la salud, la educación, la vivienda y el ambiente. 
           p.mb-5  Sistema de protección social y enfoque del manejo social del riesgo, La Ley 789 de 2002, lo define como: 
-          .bloque-texto-c.bg-color-16.p-3
-            i.fas.fa-quote-right
-            h4.mb-0 El conjunto de políticas públicas orientadas a disminuir la vulnerabilidad y mejorar la calidad de vida de los colombianos, especialmente de los más desprotegidos, para obtener al menos el derecho a la salud, la pensión y el trabajo.
+          .bloque-texto-f.bg-color-16.pt-4.px-5.mb-0.mb-cus
+            .bloque-texto-f__comillas
+              i.fas.fa-quote-left
+              i.fas.fa-quote-right
+            p.bloque-texto-f__texto.mb-0.mt-4 El conjunto de políticas públicas orientadas a disminuir la vulnerabilidad y mejorar la calidad de vida de los colombianos, especialmente de los más desprotegidos, para obtener al menos el derecho a la salud, la pensión y el trabajo.
         .col-sm-12.col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/temas/t2/5.png', alt='')
 
@@ -196,7 +198,7 @@
         .col
           h3.mb-0.titulo-icono-text.p-0 Revolución educativa y desarrollo humano 
 
-      p.mb-4(data-aos="fade-left") La revolución educativa, alineada con los objetivos de desarrollo del milenio (ODM), busca garantizar el derecho a la educación de calidad, centrada en formar ciudadanos críticos, participativos y responsables. Se plantea como una respuesta integral a las necesidades de desarrollo humano, promoviendo: 
+      p.mb-4(data-aos="fade-left") La revolución educativa, alineada con los Objetivos de Desarrollo del Milenio (ODM), busca garantizar el derecho a la educación de calidad, centrada en formar ciudadanos críticos, participativos y responsables. Se plantea como una respuesta integral a las necesidades de desarrollo humano, promoviendo: 
       .row.justify-content-start.mb-5(data-aos="fade-left")
         .col-sm-12.col-lg-6
           ol.lista-ol--cuadro.lista-ol--separador.mb-5.mt-4
@@ -232,7 +234,7 @@
             .row.align-items-end.justify-content-start.mb-3
               .col-lg-2.mb-0.d-none.d-lg-block
                 img.w-75(src='@/assets/curso/temas/t2/15.svg')
-            p.mb-2 El sistema nacional ambiental (SINA) promueve la gestión ambiental como parte del desarrollo sostenible, desde su creación, busca garantizar el equilibrio ambiental y social mediante políticas públicas que: 
+            p.mb-2 El Sistema Nacional Ambiental (SINA) promueve la gestión ambiental como parte del desarrollo sostenible, desde su creación, busca garantizar el equilibrio ambiental y social mediante políticas públicas que: 
             ul.lista-ul--color.mb-4
               li.d-flex
                 i.fas.fa-check-circle.bg-color-3
@@ -257,7 +259,7 @@
         .col
           h3.mb-0.titulo-icono-text.p-0 Política de vivienda y desarrollo territorial 
 
-      p.mb-4(data-aos="fade-left") Desde el ministerio de vivienda, se impulsan políticas para mejorar las condiciones habitacionales, promoviendo: 
+      p.mb-4(data-aos="fade-left") Desde el Ministerio de Vivienda, se impulsan políticas para mejorar las condiciones habitacionales, promoviendo: 
       .row.justify-content-center.mb-5(data-aos="fade-left")
         .col-sm-12.col-lg-5
             ul.lista-ul--color.mb-4
