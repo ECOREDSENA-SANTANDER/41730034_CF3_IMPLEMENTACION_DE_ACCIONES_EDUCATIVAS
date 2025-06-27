@@ -61,7 +61,7 @@
               img(src='@/assets/curso/temas/t3/3.png', alt='Personas ayudándose mutuamente')
           p.mb-0 La ayuda mutua es clave para construir redes comunitarias de apoyo, que fortalecen la resiliencia de las familias y las comunidades frente a los problemas que afectan su salud y calidad de vida.
 
-        .tarjeta.bg-color-9.p-4(titulo="Entornos saludables")
+        .tarjeta.bg-color-9.p-4(titulo="Entornos saludables o entornos sanos")
           h5 Entornos saludables o entornos sanos
           p Los entornos saludables son aquellos espacios físicos, sociales y culturales que favorecen el bienestar y el desarrollo humano integral. Se trata de crear condiciones que promuevan estilos de vida saludables, como:
           .row.justify-content-center.mb-3
