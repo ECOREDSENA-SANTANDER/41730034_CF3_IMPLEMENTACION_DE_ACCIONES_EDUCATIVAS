@@ -120,7 +120,7 @@
               .row.justify-content-center.mb-0
                 .col-sm-12.col-lg-8
                   h4.mb-3 1. Crecimiento y desarrollo:
-                  p.mb-4 Estas prácticas están orientadas a garantizar una nutrición adecuada y un desarrollo integral en los niños, a continuación de describen las siguientes.
+                  p.mb-4 Estas prácticas están orientadas a garantizar una nutrición adecuada y un desarrollo integral en los niños. A continuación se describen las siguientes.
                   ul.lista-ul--color.mb-0
                     li.d-flex
                       i.fas.fa-check-circle.bg-color-3

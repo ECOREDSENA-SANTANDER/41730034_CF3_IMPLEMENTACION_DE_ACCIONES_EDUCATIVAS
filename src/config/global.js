@@ -84,7 +84,7 @@ export default {
         nombreRuta: 'tema4',
         numero: '4',
         titulo:
-          'Estrategia de Atención Integrada a las Enfermedades Prevalentes de la Infancia de Entornos Saludables (AIEPI)',
+          'Estrategia de Atención Integrada a las Enfermedades Prevalentes de la Infancia (AIEPI)',
         desarrolloContenidos: true,
       },
       {
@@ -145,7 +145,7 @@ export default {
       tema:
         'Directrices nacionales que favorecen el desarrollo de las estrategias.',
       referencia:
-        'Ministerio de Salud y Protección Social. (s.f.). Lineamientos nacionales para la aplicación y el desarrollo de las EES. Ministerio de salud y protección social de Colombia.',
+        'Ministerio de Salud y Protección Social. (s.f.). Lineamientos nacionales para la aplicación y el desarrollo de las EES. Ministerio de Salud y Protección Social de Colombia.',
       tipo: 'PDF',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/lineamientos-nacionales-para-la-aplicacion-y-el-desarrollo-de-las-ees.pdf',
@@ -181,7 +181,7 @@ export default {
     },
     {
       termino: 'Promoción',
-      significado: 'fomentar capacidades para cuidar salud.',
+      significado: 'fomentar capacidades para cuidar la salud.',
     },
     {
       termino: 'Prevención',
@@ -221,11 +221,13 @@ export default {
     },
     {
       termino: 'AIEPI',
-      significado: ' Atención Integral a la Infancia.',
+      significado:
+        'Estrategia que mejora la atención y prevención de enfermedades en niños menores de cinco años, ayudando a reducir su enfermedad y mortalidad.',
     },
     {
       termino: 'EES',
-      significado: 'crear espacios físicos y sociales saludables.',
+      significado:
+        'Estrategias de Entornos Saludables que promueven acciones intersectoriales para mejorar la salud a través de la creación de espacios seguros, saludables y sostenibles en la escuela, el hogar, el trabajo y la comunidad.',
     },
     {
       termino: 'Riesgo',
@@ -239,19 +241,19 @@ export default {
   referencias: [
     {
       referencia:
-        'Ministerio de la protección social, Ministerio de Educación Nacional & Ministerio de Ambiente, Vivienda y Desarrollo Territorial. (2006). Lineamientos nacionales para la aplicación y el desarrollo de las estrategias de entornos saludables: escuela saludable y vivienda saludable. Bogotá, Colombia. ISBN 978-958-97582-5-0.',
+        'Ministerio de la Protección Social, Ministerio de Educación Nacional & Ministerio de Ambiente, Vivienda y Desarrollo Territorial. (2006). Lineamientos nacionales para la aplicación y el desarrollo de las estrategias de entornos saludables: escuela saludable y vivienda saludable. Bogotá, Colombia. ISBN 978-958-97582-5-0.',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/lineamientos-nacionales-para-la-aplicacion-y-el-desarrollo-de-las-ees.pdf',
     },
     {
       referencia:
-        'Constitución Política de Colombia. (1991). Artículo 49 – Atención en salud y saneamiento ambiental. Constitución Política de Colombia. Recuperado de',
+        'Constitución Política de Colombia. (1991). Artículo 49 – Atención en salud y saneamiento ambiental. Constitución Política de Colombia.',
       link:
         'https://www.constitucioncolombia.com/titulo-2/capitulo-2/articulo-49',
     },
     {
       referencia:
-        'Giraldo, A., Toro, M., Macías, A., Valencia, C., & Palacio, S. (2010). La promoción de la salud como estrategia para el fomento de estilos de vida saludables. Hacia la promoción de la salud, 15(1), 128-143. Recuperado de',
+        'Giraldo, A., Toro, M., Macías, A., Valencia, C., & Palacio, S. (2010). La promoción de la salud como estrategia para el fomento de estilos de vida saludables. Hacia la promoción de la salud, 15(1), 128-143.',
       link: 'http://www.scielo.org.co/pdf/hpsal/v15n1/v15n1a09.pdf',
     },
   ],

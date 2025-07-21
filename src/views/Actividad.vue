@@ -20,7 +20,7 @@ export default {
       tema: 'Intervención y evaluación en entornos saludables',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión de los conceptos de integración EES-AIEPI según modelo de gestión local.',
+        '<b> Objetivo:</b> evaluar la comprensión de los conceptos de integración EES-AIEPI según modelo de gestión local.',
       barajarPreguntas: false,
       preguntas: [
         {
@@ -249,11 +249,12 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad el conocimiento de integración EES-AIEPI según modelo de gestión local..',
+            '¡Felicitaciones! Ha captado con claridad el conocimiento de integración EES-AIEPI según modelo de gestión local.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
       ],
+      titulo_reprobado: 'Vuelva a intentarlo',
       mensaje_final_aprobado: '¡Excelente! Ha superado la actividad.',
       mensaje_final_reprobado:
         'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',

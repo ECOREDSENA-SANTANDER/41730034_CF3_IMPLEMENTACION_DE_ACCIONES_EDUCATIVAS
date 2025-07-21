@@ -119,7 +119,7 @@
       Separador
       #t_3_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 3.1 Marco normativo de la promoción de la salud en Colombia 
-      p.mb-4(data-aos="fade-left") La constitución política de Colombia de 1991, en su artículo 49, establece por primera vez el derecho fundamental a la salud, definiendo responsabilidades claras para el estado y garantizando el acceso equitativo a los servicios de salud para toda la población. Este artículo señala que: 
+      p.mb-4(data-aos="fade-left") La Constitución Política de Colombia de 1991, en su artículo 49, establece por primera vez el derecho fundamental a la salud, definiendo responsabilidades claras para el Estado y garantizando el acceso equitativo a los servicios de salud para toda la población. Este artículo señala que: 
       .row.mb-5(data-aos="fade-left")
         .col-sm-6.col-md-12.col-lg-4.mb-4.mb-lg-0
           .tarjeta--boton.bg-fondo-3.p-4.h-card-2
@@ -166,7 +166,7 @@
             div(titulo='Ley 1751 de 2015 (Ley estatutaria de salud)')
               .row.mb-0
                 .col-12
-                  p.mb-0 Reconoce la salud como un derecho fundamental autónomo, universal e irrenunciable, que debe ser garantizado por el estado en condiciones de calidad, oportunidad y dignidad.
+                  p.mb-0 Reconoce la salud como un derecho fundamental autónomo, universal e irrenunciable, que debe ser garantizado por el Estado en condiciones de calidad, oportunidad y dignidad.
 
             div(titulo='Ley 1438 de 2011')
               .row.mb-0
@@ -374,7 +374,7 @@
                       i.fas.fa-check-circle.bg-color-3
                       p.mb-0  Factores personales como aspectos biológicos, psicológicos y socioculturales (por ejemplo, edad, género, estado emocional, cultura, creencias, y contexto social). 
 
-            .row(numero="b" titulo="Cogniciones y afectos relacionados con la conducta específicaz")
+            .row(numero="b" titulo="Cogniciones y afectos relacionados con la conducta específica")
               .col-sm-12.col-lg-12
                 p.mb-4 Se refiere a cómo las personas piensan y sienten acerca de las acciones que pueden tomar para cuidar su salud, incluyendo:
                 ul.lista-ul--color.mb-0
@@ -415,7 +415,7 @@
         .col-sm-12.col-lg-10
           .titulo-sexto.color-acento-contenido
               p.mb-0 #[b Figura 1.]  Modelo de promoción de la salud según Pender
-          img(src='@/assets/curso/temas/t3/20.svg', alt='Modelo de promoción de la salud según Pender explica cómo las personas adoptan conductas saludables. Se basa en factores individuales (experiencias previas y características personales), percepciones (beneficios, barreras, autoeficacia e influencias externas) y compromiso con la acción, lo que finalmente lleva a una conducta promotora de la salud.')
+          img(src='@/assets/curso/temas/t3/20.svg', alt='Modelo de promoción de la salud según Pender. Explica cómo las personas adoptan conductas saludables. Se basa en factores individuales (experiencias previas y características personales), percepciones (beneficios, barreras, autoeficacia e influencias externas) y compromiso con la acción, lo que finalmente lleva a una conducta promotora de la salud.')
 
 
       .row.justify-content-center.mb-5(data-aos="fade-left")

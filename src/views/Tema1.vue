@@ -10,7 +10,7 @@
         .col-sm-12.col-lg-1.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/1.svg', alt='')
         .col-sm-12.col-lg-11
-          p.mb-0 El desarrollo humano sostenible es un proceso que busca ampliar las oportunidades y capacidades de las personas para alcanzar una vida digna, saludable y plena, según el programa de las naciones unidas para el desarrollo (PNUD, 1990), el desarrollo humano implica vivir saludablemente, adquirir conocimientos y contar con los recursos necesarios para una vida decente. Cuando estas condiciones no se garantizan, otras oportunidades y derechos permanecen fuera del alcance. 
+          p.mb-0 El desarrollo humano sostenible es un proceso que busca ampliar las oportunidades y capacidades de las personas para alcanzar una vida digna, saludable y plena, según el programa de las Naciones Unidas para el desarrollo (PNUD, 1990), el desarrollo humano implica vivir saludablemente, adquirir conocimientos y contar con los recursos necesarios para una vida decente. Cuando estas condiciones no se garantizan, otras oportunidades y derechos permanecen fuera del alcance. 
       p.mb-5(data-aos="fade-left") Además, el desarrollo humano se entiende como la capacidad de un país o región para satisfacer las necesidades esenciales de su población y mejorar continuamente sus condiciones de vida, promoviendo la equidad en el acceso a los recursos y oportunidades. 
       h5.mb-4(data-aos="fade-left") El desarrollo humano contempla dos componentes esenciales: 
       .tarjeta--container.row.mb-5
@@ -86,7 +86,7 @@
           img(src='@/assets/bg/2.svg', alt='')
         .col
           h3.mb-0.titulo-icono-text.p-0 Relación entre derechos humanos y desarrollo humano 
-      p.mb-5(data-aos="fade-left") El desarrollo humano como derecho es una visión relativamente reciente, aunque desde antes se abordaban de manera implícita algunos aspectos relacionados. Fue en 1986, mediante la declaración sobre el derecho al desarrollo de las naciones unidas, donde se reconoció formalmente este derecho, afirmando que todas las personas tienen derecho a participar, contribuir y disfrutar del desarrollo económico, social, cultural y político. 
+      p.mb-5(data-aos="fade-left") El desarrollo humano como derecho es una visión relativamente reciente, aunque desde antes se abordaban de manera implícita algunos aspectos relacionados. Fue en 1986, mediante la declaración sobre el derecho al desarrollo de las Naciones Unidas, donde se reconoció formalmente este derecho, afirmando que todas las personas tienen derecho a participar, contribuir y disfrutar del desarrollo económico, social, cultural y político. 
 
       .row.justify-content-center.mb-5(data-aos="fade-left")
         .col-sm-12.col-lg-4
@@ -123,7 +123,7 @@
               .col-sm-12.col-lg-1.d-none.d-lg-block
                 img(src='@/assets/curso/temas/t1/12.svg', alt='')
               .col-sm-12.col-lg-11
-                p.mb-0 #[b Derechos que conforman el derecho al desarrollo:] según la declaración sobre el derecho al desarrollo de Naciones Unidas, este derecho se compone de los siguientes elementos: 
+                p.mb-0 #[b Derechos que conforman el derecho al desarrollo:] según la declaración sobre el derecho al desarrollo de , este derecho se compone de los siguientes elementos: 
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-4.d-none.d-lg-block
                 img(src='@/assets/curso/temas/t1/13.png', alt='')
@@ -181,7 +181,7 @@
         .col-sm-12.col-lg-1.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/12.svg', alt='')
         .col-sm-12.col-lg-11
-          p.mb-0 #[b Relación con la constitución política de 1991:] en Colombia, la constitución política de 1991 reconoce los derechos humanos como pilar fundamental, destacando en el Artículo 5: 
+          p.mb-0 #[b Relación con la Constitución Política de 1991:] en Colombia, la Constitución Política de 1991 reconoce los derechos humanos como pilar fundamental, destacando en el Artículo 5: 
 
       .row.justify-content-center.mb-5.align-items-center(data-aos="fade-left")
         .col-sm-12.col-lg-8
@@ -189,7 +189,7 @@
             .bloque-texto-f__comillas
               i.fas.fa-quote-left
               i.fas.fa-quote-right
-            .bloque-texto-f__texto.h4.mb-0.mt-4 El estado reconoce, sin discriminación alguna, la primacía de los derechos inalienables de la persona y ampara a la familia como institución básica de la sociedad. 
+            .bloque-texto-f__texto.h4.mb-0.mt-4 El Estado reconoce, sin discriminación alguna, la primacía de los derechos inalienables de la persona y ampara a la familia como institución básica de la sociedad. 
             
         .col-sm-12.col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/21.png', alt='')

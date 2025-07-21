@@ -10,12 +10,12 @@
         .col-sm-12.col-lg-1.d-none.d-lg-block
           img(src='@/assets/curso/temas/t2/1.svg', alt='')
         .col-sm-12.col-lg-11
-          p.mb-0  Los Objetivos de Desarrollo del Milenio (ODM): un compromiso global para promover el desarrollo humano; se entienden como Colombia, en articulación con el sistema de naciones unidas, ha venido implementando desde 2003 una agenda nacional para cumplir con los compromisos adquiridos en el marco de los Objetivos de Desarrollo del Milenio (ODM); esta agenda, adaptada y formalizada mediante el CONPES Social 91 (2005), planteó un conjunto de propuestas y acciones para avanzar en el logro de las metas acordadas a nivel internacional, centradas en reducir la pobreza, mejorar la salud, la educación y garantizar el desarrollo humano sostenible. 
+          p.mb-0  Los Objetivos de Desarrollo del Milenio (ODM): un compromiso global para promover el desarrollo humano; se entienden cómo Colombia, en articulación con el sistema de Naciones Unidas, ha venido implementando desde 2003 una agenda nacional para cumplir con los compromisos adquiridos en el marco de los Objetivos de Desarrollo del Milenio (ODM); esta agenda, adaptada y formalizada mediante el CONPES Social 91 (2005), planteó un conjunto de propuestas y acciones para avanzar en el logro de las metas acordadas a nivel internacional, centradas en reducir la pobreza, mejorar la salud, la educación y garantizar el desarrollo humano sostenible. 
 
       .row.justify-content-center.mb-5(data-aos="fade-left")
         .col-sm-12.col-lg-6
           img.mb-5.d-none.d-lg-block(src='@/assets/curso/temas/t2/2.png', alt='')
-          p.mb-0.mb-cus Estos compromisos surgieron como respuesta a los desafíos globales de desarrollo social, abordados en diversas conferencias internacionales organizadas por las naciones unidas en los años 90, en septiembre del 2000, 189 estados miembros de la ONU, junto con 147 jefes de estado y de gobierno, firmaron la declaración del milenio, estableciendo un pacto mundial para erradicar la pobreza extrema y avanzar en la equidad social, bajo una visión compartida de los derechos humanos, la democracia, la equidad y la sostenibilidad ambiental. 
+          p.mb-0.mb-cus Estos compromisos surgieron como respuesta a los desafíos globales de desarrollo social, abordados en diversas conferencias internacionales organizadas por las Naciones Unidas en los años 90, en septiembre del 2000, 189 Estados miembros de la ONU, junto con 147 jefes de Estado y de Gobierno, firmaron la declaración del milenio, estableciendo un pacto mundial para erradicar la pobreza extrema y avanzar en la equidad social, bajo una visión compartida de los derechos humanos, la democracia, la equidad y la sostenibilidad ambiental. 
         .col-sm-12.col-lg-6
           .bg-color-11.p-4.mb-3
             p.mb-4 Los ODM definieron ocho objetivos concretos y medibles, que buscan enfrentar problemas estructurales a nivel global: 
@@ -50,9 +50,9 @@
         .col-auto.titulo-icono-img
           img(src='@/assets/bg/2.svg', alt='')
         .col
-          h3.mb-0.titulo-icono-text.p-0 Estrategias para alcanzar los objetivos del milenio en américa latina 
+          h3.mb-0.titulo-icono-text.p-0 Estrategias para alcanzar los objetivos del milenio en América Latina 
 
-      p.mb-5(data-aos="fade-left") Desde la mirada de américa latina, lograr los ODM requiere de esfuerzos conjuntos y sostenidos, a través de estrategias como: 
+      p.mb-5(data-aos="fade-left") Desde la mirada de América Latina, lograr los ODM requiere de esfuerzos conjuntos y sostenidos, a través de estrategias como: 
       .row.justify-content-center.mb-5(data-aos="fade-left")
         .col-sm-12.col-lg-3.d-none.d-lg-block
           img(src='@/assets/curso/temas/t2/3.svg', alt='')
@@ -120,9 +120,9 @@
         h2 2.1 Directrices nacionales que favorecen el desarrollo de las estrategias 
       .row.justify-content-center.mb-5(data-aos="fade-left")
         .col-sm-12.col-lg-8
-          p.mb-4 En Colombia, el desarrollo de estrategias para mejorar la calidad de vida y el bienestar de la población se ha fortalecido a partir de políticas públicas intersectoriales, promovidas por el estado en alianza con diversos actores sociales, estas directrices han sido fundamentales para impulsar estrategias como escuela saludable y vivienda saludable, las cuales buscan promover entornos protectores, fortalecer capacidades individuales y colectivas, y fomentar el desarrollo humano sostenible.
+          p.mb-4 En Colombia, el desarrollo de estrategias para mejorar la calidad de vida y el bienestar de la población se ha fortalecido a partir de políticas públicas intersectoriales, promovidas por el Estado en alianza con diversos actores sociales, estas directrices han sido fundamentales para impulsar estrategias como escuela saludable y vivienda saludable, las cuales buscan promover entornos protectores, fortalecer capacidades individuales y colectivas, y fomentar el desarrollo humano sostenible.
           p.mb-4 Desde el enfoque propuesto, se reconoce el papel clave de los ministerios y entidades gubernamentales en la construcción de políticas que respondan a las necesidades sociales, especialmente en el ámbito de la salud, la educación, la vivienda y el ambiente. 
-          p.mb-5  Sistema de protección social y enfoque del manejo social del riesgo, La Ley 789 de 2002, lo define como: 
+          p.mb-5  Sistema de protección social y enfoque del manejo social del riesgo, la Ley 789 de 2002, lo define como: 
           .bloque-texto-f.bg-color-16.pt-4.px-5.mb-0.mb-cus
             .bloque-texto-f__comillas
               i.fas.fa-quote-left
@@ -132,7 +132,7 @@
           img(src='@/assets/curso/temas/t2/5.png', alt='')
 
       p.mb-4(data-aos="fade-left") Este sistema ha evolucionado desde un enfoque tradicional basado en la asistencia y previsión social, hacia un manejo social del riesgo, que reconoce la participación activa de la comunidad, el sector privado, y otros actores, para enfrentar situaciones que amenazan el bienestar y la seguridad de la población. 
-      p.mb-5(data-aos="fade-left") El manejo social del riesgo implica la prevención, mitigación y superación de situaciones adversas, incorporando estrategias de protección frente a factores como pobreza, violencia, desempleo, desastres naturales, entre otros, este enfoque se basa en tres tipos de sistemas: 
+      p.mb-5(data-aos="fade-left") El manejo social del riesgo implica la prevención, mitigación y superación de situaciones adversas, incorporando estrategias de protección frente a factores como pobreza, violencia, desempleo, desastres naturales, entre otros. Este enfoque se basa en tres tipos de sistemas: 
       .row.mb-5(data-aos="fade-left")
         .col-sm-12.col-lg-4
           .tarjeta-avatar
