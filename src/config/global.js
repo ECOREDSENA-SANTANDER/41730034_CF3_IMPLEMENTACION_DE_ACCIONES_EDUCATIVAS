@@ -227,7 +227,7 @@ export default {
     {
       termino: 'EES',
       significado:
-        'Estrategias de Entornos Saludables que promueven acciones intersectoriales para mejorar la salud a través de la creación de espacios seguros, saludables y sostenibles en la escuela, el hogar, el trabajo y la comunidad.',
+        'estrategias de Entornos Saludables que promueven acciones intersectoriales para mejorar la salud a través de la creación de espacios seguros, saludables y sostenibles en la escuela, el hogar, el trabajo y la comunidad.',
     },
     {
       termino: 'Riesgo',
